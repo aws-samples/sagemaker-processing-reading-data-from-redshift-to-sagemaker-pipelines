@@ -1,17 +1,3 @@
-## My Project
+# Pull data from Redshift and use it in a SageMaker Pipeline
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
+How to use SageMaker Processing to read data from Redshift, process it, and pass it along a SageMaker Pipeline
